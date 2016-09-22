@@ -17,15 +17,15 @@
 		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/lanche-refrescante.mp4</video>
 	</item>
 	<item>
-		<title>Bebidas para reidratar</title>
+		<title>Bebidas para Reidratar</title>
 		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/bebidas-para-reidratar.mp4</video>
 	</item>
 	<item>
-		<title>Flan de café</title>
+		<title>Flan de Café</title>
 		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/flan-de-café.mp4</video>
 	</item>
 	<item>
-		<title>Tortinha de iogurte</title>
+		<title>Tortinha de Iogurte</title>
 		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/tortinha-de-iogurte.mp4</video>
 	</item>
 	<item>
@@ -35,5 +35,37 @@
 	<item>
 		<title>Nuggets Caseiro</title>
 		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/nuggets-caseiro.mp4</video>
+	</item>
+	<item>
+		<title>Bolo Integral de Banana</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/bolo-integral-de-banana.mp4</video>
+	</item>
+	<item>
+		<title>Torta de Bauru</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/torta-de-bauru.mp4</video>
+	</item>
+	<item>
+		<title>Pipoca Doce de Brownie</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/pipoca-doce-de-brownie.mp4</video>
+	</item>
+	<item>
+		<title>Sopa de Cebola</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/sopa-de-cebola.mp4</video>
+	</item>
+	<item>
+		<title>Delicioso Bolo de Cenoura</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/delicioso-bolo-de-cenoura.mp4</video>
+	</item>
+	<item>
+		<title>Crumble de Banana</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/crumble-de-banana.mp4</video>
+	</item>
+	<item>
+		<title>Arroz de Carreteiro</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/arroz-de-carreteiro.mp4</video>
+	</item>
+	<item>
+		<title>Torta de Leite Ninho e Nutella</title>
+		<video>http://conteudo.farolsign.com.br/receita_facil/v1/data/videos/sd/torta-de-leite-ninho-e-nutella.mp4</video>
 	</item>
 </root>
